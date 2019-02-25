@@ -2,7 +2,7 @@
 Copyright (c) 2016 Baidu.com, Inc. All Rights Reserved
 
 @File    : PostDataJudge.lua
-@Author  : chenguang02@baidu.com
+@Author  : sunnnychan@gmail.com
 @Date    : 2016/06/12
 @Version : 1.0.0
 @Brief   : 

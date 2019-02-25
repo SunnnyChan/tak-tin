@@ -2,7 +2,7 @@
 Copyright (c) 2016 Baidu.com, Inc. All Rights Reserved
 
 @file PassidJudge.lua
-@author chenguang02@baidu.com
+@author sunnnychan@gmail.com
 @date 2016/03/12 11:27:24
 @brief passid judge
 ]]-- 
