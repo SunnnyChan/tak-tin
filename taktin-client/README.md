@@ -1,1 +1,0 @@
-# taktin client

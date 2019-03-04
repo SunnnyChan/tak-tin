@@ -20,14 +20,15 @@ A light weight and high performance traffic manguagement platform based on OpenR
 
 ## Technology stack
 
-* taktin-server
+* taktin-engine
 
 > * [OVP](https://github.com/SunnnyChan/OVP)
 
-* taktin-platform
+* taktin-server
 
 > * [restful-web](https://github.com/SunnnyChan/restful-web)
-> * MySQL
+
+* taktin-web
 
 * zookeeper
 
