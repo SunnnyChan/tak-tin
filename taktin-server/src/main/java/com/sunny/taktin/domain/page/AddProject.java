@@ -5,4 +5,5 @@ package com.sunny.taktin.domain.page;
  */
 
 public class AddProject {
+
 }
