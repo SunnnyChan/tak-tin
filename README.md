@@ -1,6 +1,6 @@
 # taktin
 
-A light weight and high performance traffic manguagement platform based on OpenResty.
+A light weight and high performance traffic management platform based on OpenResty.
 
 ## Features
 
@@ -44,4 +44,4 @@ Service register and discovery.
 
 * Execute SQL
 
-## [Doc.](doc/README.md)
+## [Doc.](_doc/README.md)
