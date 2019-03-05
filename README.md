@@ -28,7 +28,7 @@ A light weight and high performance traffic management platform based on OpenRes
 
 > * [restful-web](https://github.com/SunnnyChan/restful-web)
 
-* taktin-web
+* taktin-web （UI）
 
 * zookeeper
 
