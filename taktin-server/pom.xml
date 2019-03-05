@@ -6,13 +6,8 @@
   <packaging>jar</packaging>
   <version>1.0</version>
   <name>taktin-server</name>
-  <url></url>
 
   <inceptionYear>2019</inceptionYear>
-
-  <modules>
-    <module>taktin-server</module>
-  </modules>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -21,6 +16,12 @@
   </properties>
 
   <dependencies>
+    <dependency>
+      <groupId>com.sunny.rw.server</groupId>
+      <artifactId>rw-server</artifactId>
+      <version>1.0</version>
+    </dependency>
+
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
