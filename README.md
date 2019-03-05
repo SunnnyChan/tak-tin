@@ -2,6 +2,8 @@
 
 A light weight and high performance traffic management platform based on OpenResty.
 
+![](_doc/pic/taktin.png)
+
 ## Features
 
 ```md
